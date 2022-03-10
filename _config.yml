@@ -40,7 +40,7 @@ round-avatar: true
 social-network-links:
   email: "kucuksayacigil@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: fikri.kscg
+#  facebook: fikri.kscg
   github: fikrikscg
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -51,7 +51,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: fksayaci
+#  instagram: fksayaci
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
